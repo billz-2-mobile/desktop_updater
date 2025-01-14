@@ -1,21 +1,21 @@
 {
   "latest": {
-    "windows_new_version": "2.5.2",
+    "windows_new_version": "2.5.3",
     "mac_new_version": "2.5.0",
     "force": false,
-    "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.5.2.exe",
-    "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
-  },
-  "2.4.10": {
-    "new_version": "2.4.11",
-    "force": false,
-    "url_windows": "https://t.me/c/2432699672/4",
+    "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.5.3.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   },
   "2.5.1": {
     "new_version": "2.5.2",
     "force": false,
     "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.5.2.exe",
+    "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
+  },
+  "2.5.2": {
+    "new_version": "2.5.3",
+    "force": false,
+    "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.5.3.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   }
 }
