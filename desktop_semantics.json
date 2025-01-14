@@ -1,7 +1,7 @@
 {
   "latest": {
     "windows_new_version": "2.5.2",
-    "mac_new_version": "2.5.0",
+    "mac_new_version": "2.5.1",
     "force": false,
     "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.5.2.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
