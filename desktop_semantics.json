@@ -4,5 +4,11 @@
     "force": true,
     "url_windows": "https://t.me/c/2432699672/4",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
+  },
+  "2.5.1": {
+    "new_version": "2.5.2",
+    "force": true,
+    "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.5.2.exe",
+    "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   }
 }
