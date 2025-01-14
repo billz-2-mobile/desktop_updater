@@ -1,7 +1,7 @@
 {
   "2.4.10": {
     "new_version": "2.4.11",
-    "force": false,
+    "force": true,
     "url_windows": "https://t.me/c/2432699672/4",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   }
