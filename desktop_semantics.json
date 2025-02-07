@@ -1,7 +1,7 @@
 {
   "latest": {
     "windows_new_version": "2.7.0",
-    "mac_new_version": "2.6.11",
+    "mac_new_version": "2.7.0",
     "force": true,
     "force_windows": true,
     "force_macos": true,
