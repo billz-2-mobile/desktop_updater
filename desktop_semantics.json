@@ -5,7 +5,7 @@
     "force": false,
     "force_windows": false,
     "force_macos": true,
-    "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.7.0.exe",
+    "url_windows": "https://test-cdn-grocery.makebillz.top/billz_setup_2.8.0.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   },
   "2.5.2": true,
