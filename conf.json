@@ -1,6 +1,6 @@
 {
   "limit": 500,
-  "limit_order": 20,
+  "limit_order": 100,
   "limit_product": 500,
   "limit_customer": 500
 }
